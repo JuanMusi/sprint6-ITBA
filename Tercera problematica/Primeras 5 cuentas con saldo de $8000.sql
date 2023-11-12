@@ -1,4 +1,4 @@
 SELECT *
 FROM cuenta
-WHERE balance > 8000
+WHERE balance > 800000
 LIMIT 5
