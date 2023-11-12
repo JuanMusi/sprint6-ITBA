@@ -15,7 +15,7 @@ https://miro.com/welcomeonboard/aGRkTlpCNVBLR3NLWnRoaE10NUpYeUt1aGR6Q29IN1NVTEIy
 
 Se han realizado las 3 primeras problematicas y el primer punto de la cuarta problematica.
 
-##Integrantes (Grupo 1)
+## Integrantes (Grupo 1)
 
 * [Ana Jazmin Vazquez](https://github.com/AJVazquez27)
 * [Natalia Anahí Vizcarra Savino](https://github.com/NeitRoot)
